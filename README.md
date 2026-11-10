@@ -69,6 +69,7 @@ Contributions welcome! See [Contributing](#contributing).
 - [Coding with Saar](https://www.codingwithsaar.co.il/) — Professional online programming courses in Hebrew for all levels. | קורסי תכנות מקצועיים אונליין בעברית לכל הרמות.
 - [Coding Academy (קודינג אקדמי)](https://www.coding-academy.org/) — Coding bootcamp with Hebrew instruction. Day courses, evening courses, and courses for experienced developers. | בוטקאמפ קידוד בעברית. קורסי יום, ערב ומפתחים מנוסים.
 - [John Bryce Online Academy](https://www.johnbryce.co.il/jb-online-academy/) — Self-paced programming courses in Hebrew — Python, JavaScript, React, Node.js, Full Stack. | קורסי תכנות בעברית ללימוד עצמאי.
+- [Lovable Israel](https://lovable-ai.co.il) — Hebrew community and courses for vibe coding with AI. | קהילה וקורסים בעברית לבניית אתרים ואפליקציות עם AI ו-vibe coding.
 
 ### Books & Written Resources
 
